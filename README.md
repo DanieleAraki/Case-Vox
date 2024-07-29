@@ -14,10 +14,13 @@ Busca pelos produtos, ordenação do menor para o maior, a inclusão dos produto
 - Node.js (recomendado versão 14.x ou superior)
 - Cypress (instalado via npm)
 
+## Notas Gerais
+Neste projeto foi reduzida a linha de código do login para limpar mais o código. Criando um support.
+
 ## Instalação
 
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+   git clone https://github.com/DanieleAraki/Case-Vox.git
    cd SEU_REPOSITORIO

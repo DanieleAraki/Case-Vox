@@ -21,6 +21,5 @@ Neste projeto foi reduzida a linha de código do login para limpar mais o códig
 
 1. **Clone o repositório:**
 
-   ```bash
    git clone https://github.com/DanieleAraki/Case-Vox.git
 
